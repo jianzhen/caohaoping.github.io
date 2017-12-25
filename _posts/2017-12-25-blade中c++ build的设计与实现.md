@@ -6,7 +6,7 @@ excerpt: " 它是腾讯开源的一个构建工具"
 tags: [blade, c++]
 comments: true
 ---
-# blade中C++Build的设计与实现
+# blade中C++Build的设计与实现 引自[CSDN](http://blog.csdn.net/zhoubl668/article/details/50324779)
 
 [blade](https://github.com/chen3feng/typhoon-blade)的背景我也就不详细介绍了，总体来说， 它是腾讯开源的一个构建工具，基于scons而非make，采用python编写， 目前的版本定位于linux下的C++程序。 它的设计思路来源于google的官方博客上的一篇文章， Build in the Cloud: How the Build System works， 好吧，刚刚发现上面的网址挂了~~，大家将就一下，看[这里](http://blog.sina.com.cn/s/blog_632d74e60100snzj.html)吧, 有兴趣的同学可以去看一下。事实上这是一个系列， 里面讲述了google对大规模协作开发的理解，推荐大家看看。
 
