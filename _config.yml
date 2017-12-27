@@ -1,14 +1,14 @@
 # Site
-title:              Deep run
-bio:                'Deep learning 深度学习爱好者.'
-description:        "Deep learning, Moon is a minimal, one column jekyll theme for your blog."
+title:              I own me
+bio:                'iome means of I own me.'
+description:        "iome means of I own me."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh_CN # en_US
-url:                https://caohaoping.github.io
+url:                https://jianzhen.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   caohaoping 
+disqus_shortname:   jianzhen 
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -40,7 +40,7 @@ disqus_shortname:   caohaoping
 #email:
 twitter:            username
 facebook:           username
-github-url:         username
+github-url:         jianzhen
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
